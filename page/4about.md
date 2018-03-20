@@ -15,7 +15,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/YannisChen)
+* GitHub：[YannisChen](https://github.com/YannisChen)
 * email：piggachen@163.com
 
 ## 关于本站
