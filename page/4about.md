@@ -5,7 +5,6 @@
 ## 个人简历
 
 # 联系方式
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
 - 电话： 
 - Email：piggachen@163.com 
@@ -66,30 +65,7 @@
 
 ---
 
-# 开源项目和作品
-
-
-## 开源项目
-
-
- - [STU](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
- - [WXYZ](http://github.com/yourname/projectname)：项目的简要说明，Star和Fork数多的可以注明
-
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
-- [一个产品经理眼中的云计算：前生今世和未来](http://get.jobdeer.com/706.get)
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ ```好的翻译文章可以侧证你对英文技术文档的阅读能力```）
-
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
-
-  - 2014架构师大会演讲：[如何通过Docker优化内部开发](http://jobdeer.com)
- - 9月公司内部分享：[云计算的前生今世](http://jobdeer.com)
-
 # 技能清单
-
-以下均为我熟练使用的技能
 
 - Web开发：Java
 - Web框架：Spring MVC,Hibernate,Struts,Ibatis
