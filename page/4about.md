@@ -1,3 +1,14 @@
+---
+layout: page
+title: About
+permalink: /about/
+icon: heart
+type: page
+---
+
+* content
+{:toc}
+
 # 说明
 
 本博客主要记录本人在开发中遇到的问题及解决办法。可能很多事情及问题都比较粗鄙，希望能够抛砖引玉，共同成长。
@@ -79,3 +90,8 @@
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
+
+## Comments
+
+{% include comments.html %}
