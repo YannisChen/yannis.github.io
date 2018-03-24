@@ -28,10 +28,10 @@ type: page
   var personal = {
     name : "Yannis",
     city : "BJ",
-    college : "Heilongjiang University Of Science And Technology"
-    site : "http://y2y.club",
-    Github：https://github.com/YannisChen
-  }
+    college : "Heilongjiang University Of Science And Technology",
+    site : "http://y2y.club",
+    Github："https://github.com/YannisChen"
+  }
 ```
 
 ---
