@@ -24,15 +24,15 @@ type: page
 ---
 
 # 个人信息
-
- - Yannis/男/1988 
- - 本科/黑龙剑科技大学计算机系 
- - 工作年限：6年
- - 技术博客：http://y2y.club
- - Github：https://github.com/YannisChen
-
- - 期望职位：Java高级程序员，PM
- - 所在城市：北京
+```java
+  var personal = {
+    name : "Yannis",
+    city : "BJ",
+    college : "Heilongjiang University Of Science And Technology"
+    site : "http://y2y.club",
+    Github：https://github.com/YannisChen
+  }
+```
 
 ---
 
