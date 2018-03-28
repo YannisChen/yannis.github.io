@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "AngularJs对象复制问题!"
+date:   2018-03-28 11:14:54
+categories: AngularJs
+tags: AngularJs
+excerpt: AngularJs对象复制。
+mathjax: true
+---
 *在AngularJs中不可避免的会使用到数组遍历的功能，之后对遍历后的数据做修改。*
 
 列表循环示例：
